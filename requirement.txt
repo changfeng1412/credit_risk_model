@@ -1,0 +1,17 @@
+# 数据处理
+pandas==2.2.2
+numpy==1.26.4
+
+# 数据库连接
+pymysql==1.1.0
+
+# 机器学习模型
+xgboost==2.0.3
+lightgbm==4.3.0
+
+# 模型评估
+scikit-learn==1.4.2
+
+# 可视化
+matplotlib==3.8.4
+seaborn==0.13.2
